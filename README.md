@@ -10,7 +10,13 @@ Repo consists of 3 different scripts.
 2. **compare** - compares people across all servers, and reduces list to people that have one than more shared server with you, saves in the json format
 3. **print** - prints list in the console sorted by amount of shared servers (from biggest to lowest)
 
-# usage
+# Installation
+
+1. Clone/download repository
+2. Do `npm install` in the folder
+3. Run all scripts
+
+# Usage
 
 ```sh
 $ node export.js [YOUR_DISCORD_USER_AUTH_TOKEN]
@@ -18,7 +24,7 @@ $ node compare.js
 $ node print.js > output.txt
 ```
 
-# getting token
+# Getting Token
 
 To get Discord user auth token, you can just get the one, that is used in your browser/discord client.
 Open Chrome Dev Tools -> Network tab, find any Discord API request, click on it, scroll to Request Headers, and there it is, the "authorization" header.

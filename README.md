@@ -2,7 +2,7 @@
 
 Get the list of people that you have shared servers with. And it works for all users, not just friends.
 
-**Note:** It's not a nodejs module, as you might expect, it's just a set of few scripts. However if you want to make it a module, go ahead.
+**Note:** It's not a nodejs module, as you might expect, it's just a set of few scripts. However if you want to make it a module, contributions are welcome!
 
 Repo consists of 3 different scripts.
 

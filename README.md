@@ -13,8 +13,9 @@ Repo consists of 3 different scripts.
 # Installation
 
 1. Clone/download repository
-2. Do `npm install` in the folder
-3. Run all scripts
+2. Do `$ cd discord-global-mutual`
+2. While in the folder, run `$ npm install`
+3. Run each of the scripts like shown below
 
 # Usage
 

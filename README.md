@@ -13,7 +13,7 @@ Repo consists of 3 different scripts.
 # Installation
 
 1. Clone/download repository
-2. Get in the downloaded directory, `$ cd discord-global-mutual`
+2. Get in the downloaded directory: `$ cd discord-global-mutual`
 2. While in the folder, run `$ npm install`
 3. Run each of the scripts like shown below
 

@@ -1,5 +1,11 @@
 # discord-global-mutual
 
+## Important
+
+Recent changes to the discord api essentially rendered this tool incapable of fetching needed data, hence the reason for archiving the repo.
+
+## Description
+
 Get the list of people that you have shared servers with. And it works for all users, not just friends.
 
 **Note:** It's not a nodejs module, as you might expect, it's just a set of few scripts. However if you want to make it a module, please do, any contributions are welcomed!
